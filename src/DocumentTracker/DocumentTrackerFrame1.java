@@ -224,7 +224,7 @@ public class DocumentTrackerFrame1 extends javax.swing.JFrame {
     private void bCreateActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_bCreateActionPerformed
           if(listIn.getText().isEmpty()==true)
           {
-              promptLabel.setText("Enter a fucking name!");
+              promptLabel.setText("Enter a name!");
           }
           else
           {
